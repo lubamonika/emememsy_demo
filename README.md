@@ -1,3 +1,9 @@
 # emememsy_demo
 Test repository to collaborate 
-Marcin Piatek
+
+
+Lista obecnosci: 
+
+1.Monika Luba
+2.Marcin Piatek
+
